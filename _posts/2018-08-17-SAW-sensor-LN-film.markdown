@@ -1,10 +1,10 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "基于LiNbO3单晶薄膜的柔性SAW应变传感器"
+subtitle: "柔性电子领域重要进展！"
+author: "x.h.s"
+avatar: "img/authors/xhs.png"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   2018-08-17 12:12:12
 ---
 
 ### Dolor sit amet?
