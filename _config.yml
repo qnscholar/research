@@ -7,7 +7,7 @@ avatarTitle: leopardpan
 # 头像里面的描述
 avatarDesc: iOS / 机器学习
 # url: "http://baixin.io"
-basesrl: '/blog'
+baseurl: '/blog'
 # Comment
 comment:
     disqus: leopard
