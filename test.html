@@ -1,0 +1,21 @@
+﻿<html>
+<head>
+<script language="javascript">
+ 
+    function show_img()//显示图片函数，鼠标移到链接触发
+    {
+        document.getElementById("img_1").style.display = "block";
+        }
+ 
+    function hide_img()//隐藏图片函数，鼠标离开链接触发
+    {
+        document.getElementById("img_1").style.display = "none";
+        }
+</script>
+</head>
+ 
+<body>
+<a href="#"  onMouseOver="show_img()" onMouseOut="hide_img()">这是一段链接</a>
+<img id="img_1" src="https://s1.ax1x.com/2018/08/15/PRt9bj.jpg" style="display:none"/><!--自己定义图片src链接！-->
+</body>
+</html>
