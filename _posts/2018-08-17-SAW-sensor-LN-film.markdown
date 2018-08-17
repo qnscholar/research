@@ -9,7 +9,7 @@ date:   2018-08-17 12:12:12
 
 ### 成果快报
 
-日前，浙江大学微纳电子研究所骆季奎课题组于国际知名期刊《Applied Physics Letters》上发表文章“Flexible Surface acoustic wave strain sensor based on LiNbO3 single crystalline thin film”，首次提出基于超薄LiNbO3单晶薄膜的柔性SAW应变传感器，该传感器具有应变范围广、灵敏度高、稳定性好、器件结构简单等优点。
+> 日前，浙江大学微纳电子研究所骆季奎课题组于国际知名期刊《Applied Physics Letters》上发表文章“Flexible Surface acoustic wave strain sensor based on LiNbO3 single crystalline thin film”，首次提出基于超薄LiNbO3单晶薄膜的柔性SAW应变传感器，该传感器具有应变范围广、灵敏度高、稳定性好、器件结构简单等优点。
 
 ### 柔性电子技术
 
