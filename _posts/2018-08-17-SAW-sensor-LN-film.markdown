@@ -3,7 +3,7 @@ title:  "基于LiNbO3单晶薄膜的柔性SAW应变传感器"
 subtitle: "柔性电子领域重要进展！"
 author: "x.h.s"
 avatar: "img/authors/xhs.png"
-image: "img/a.jpg"
+image: "img/flexible_SAW_LN.jpg"
 date:   2018-08-17 12:12:12
 ---
 
