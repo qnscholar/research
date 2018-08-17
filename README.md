@@ -1,17 +1,8 @@
-# Jekyll Modern Blog
+# 科研成果展示平台
 
-A Simple, Clean and responsive modern blog for jekyll.
+[点击这里](https://iseexuhs.github.io/research/)访问网站**ISEE-micro**，该网站作为本人的科研成果展示平台。本人主要从事声表面波传感器、柔性电子研究，欢迎大家关注我的科研进展。
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+# Theme
 
-## Attributions
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
+本网站的主题在[Jekyll_modern](https://github.com/iseexuhs/Jekyll_modern-blog)的基础上修改。
 
-## License
-
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
-
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
-
-Changes being that I made it jekyll ready and smushed the CSS together.
