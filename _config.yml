@@ -11,7 +11,7 @@ markdown: kramdown
 #highlighter: pygments
 #for local
 #highlighter: true
-baseurl: "research" # the subpath of your site, e.g. /blog/
+baseurl: '/research' # the subpath of your site, e.g. /blog/
 codeurl: https://github.com/zchen9/code/issues
 fragmenturl: /fragment/
 
