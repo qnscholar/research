@@ -1,27 +1,7 @@
 # Site settings
-title: 'Nice Shot'  # Your Title
-tagline: 'To find something interesting'  # A brief tagline for your site
-timezone: 'Asia/Shanghai'
-destination: ./_site
-
-# Build settings
-encoding: UTF-8
-markdown: kramdown
-#for publish
-#highlighter: pygments
-#for local
-#highlighter: true
-baseurl: '/research' # the subpath of your site, e.g. /blog/
-codeurl: https://github.com/zchen9/code/issues
-fragmenturl: /fragment/
-
-# Personal info
-avatar: ./images/zchen9_spring.png
-photo: ./images/hey.jpg
-email: zhao.zchen9@gmail.com
-github: https://github.com/zchen9
-twitter: https://twitter.com/ch1oechao
-ins: https://www.instagram.com/ch1oechao
-
-# Logo setting
-logocolor: '#000'
+title: ISEE-micro
+description: 致力于传播声波器件、柔性电子器件的最新研究进展
+keywords: Modern, Blogging, Fun
+author: H.S. Xu
+baseurl: "research" # the subpath of your site, e.g. /blog/
+url: "https://qnscholar.github.io" # the base hostname & protocol for your site
